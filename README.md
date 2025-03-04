@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Kapture 2025-02-27 at 23 44 32](https://github.com/user-attachments/assets/ffacf762-7934-4718-8843-daacb3bf1c92)
+![Kapture 2025-03-04 at 10 35 05](https://github.com/user-attachments/assets/199fc054-5c76-4b88-9d84-05455d15102e)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [(https://getkap.co/)] for Windows
